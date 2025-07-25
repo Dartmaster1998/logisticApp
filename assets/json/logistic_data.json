@@ -1,0 +1,323 @@
+[
+    {
+      "clientCode": "CL001",
+      "idNumber": "CG202507001",
+      "category": "Электроника",
+      "packageCount": 7,
+      "status": "Отправлен",
+      "comment": "Крупногабарит"
+    },
+    {
+      "clientCode": "CL002",
+      "idNumber": "CG202507002",
+      "category": "Мебель",
+      "packageCount": 8,
+      "status": "Задержан",
+      "comment": "Ожидается завтра"
+    },
+    {
+      "clientCode": "CL003",
+      "idNumber": "CG202507003",
+      "category": "Косметика",
+      "packageCount": 3,
+      "status": "Задержан",
+      "comment": "Ожидается завтра"
+    },
+    {
+      "clientCode": "CL004",
+      "idNumber": "CG202507004",
+      "category": "Электроника",
+      "packageCount": 3,
+      "status": "Ожидает оплаты",
+      "comment": "Связаться с клиентом"
+    },
+    {
+      "clientCode": "CL005",
+      "idNumber": "CG202507005",
+      "category": "Одежда",
+      "packageCount": 8,
+      "status": "Задержан",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL006",
+      "idNumber": "CG202507006",
+      "category": "Обувь",
+      "packageCount": 7,
+      "status": "На таможне",
+      "comment": "Из Китая"
+    },
+    {
+      "clientCode": "CL007",
+      "idNumber": "CG202507007",
+      "category": "Обувь",
+      "packageCount": 9,
+      "status": "Отправлен",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL008",
+      "idNumber": "CG202507008",
+      "category": "Косметика",
+      "packageCount": 8,
+      "status": "На складе",
+      "comment": "Без комментариев"
+    },
+    {
+      "clientCode": "CL009",
+      "idNumber": "CG202507009",
+      "category": "Аксессуары",
+      "packageCount": 3,
+      "status": "Ожидает оплаты",
+      "comment": "Без комментариев"
+    },
+    {
+      "clientCode": "CL010",
+      "idNumber": "CG202507010",
+      "category": "Инструменты",
+      "packageCount": 2,
+      "status": "На таможне",
+      "comment": "Без комментариев"
+    },
+    {
+      "clientCode": "CL011",
+      "idNumber": "CG202507011",
+      "category": "Продукты",
+      "packageCount": 2,
+      "status": "На таможне",
+      "comment": "Хрупкий груз"
+    },
+    {
+      "clientCode": "CL012",
+      "idNumber": "CG202507012",
+      "category": "Игрушки",
+      "packageCount": 6,
+      "status": "Отправлен",
+      "comment": "Из Китая"
+    },
+    {
+      "clientCode": "CL013",
+      "idNumber": "CG202507013",
+      "category": "Мебель",
+      "packageCount": 2,
+      "status": "На таможне",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL014",
+      "idNumber": "CG202507014",
+      "category": "Одежда",
+      "packageCount": 4,
+      "status": "В пути",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL015",
+      "idNumber": "CG202507015",
+      "category": "Электроника",
+      "packageCount": 5,
+      "status": "На складе",
+      "comment": "Хрупкий груз"
+    },
+    {
+      "clientCode": "CL016",
+      "idNumber": "CG202507016",
+      "category": "Одежда",
+      "packageCount": 4,
+      "status": "В пути",
+      "comment": "Крупногабарит"
+    },
+    {
+      "clientCode": "CL017",
+      "idNumber": "CG202507017",
+      "category": "Автозапчасти",
+      "packageCount": 5,
+      "status": "Задержан",
+      "comment": "Ожидается завтра"
+    },
+    {
+      "clientCode": "CL018",
+      "idNumber": "CG202507018",
+      "category": "Продукты",
+      "packageCount": 7,
+      "status": "Доставлен",
+      "comment": "Хрупкий груз"
+    },
+    {
+      "clientCode": "CL019",
+      "idNumber": "CG202507019",
+      "category": "Аксессуары",
+      "packageCount": 10,
+      "status": "Отправлен",
+      "comment": "Из Китая"
+    },
+    {
+      "clientCode": "CL020",
+      "idNumber": "CG202507020",
+      "category": "Одежда",
+      "packageCount": 10,
+      "status": "Ожидает оплаты",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL021",
+      "idNumber": "CG202507021",
+      "category": "Электроника",
+      "packageCount": 1,
+      "status": "В пути",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL022",
+      "idNumber": "CG202507022",
+      "category": "Мебель",
+      "packageCount": 6,
+      "status": "Отправлен",
+      "comment": "Ожидается завтра"
+    },
+    {
+      "clientCode": "CL023",
+      "idNumber": "CG202507023",
+      "category": "Электроника",
+      "packageCount": 5,
+      "status": "На таможне",
+      "comment": "Связаться с клиентом"
+    },
+    {
+      "clientCode": "CL024",
+      "idNumber": "CG202507024",
+      "category": "Обувь",
+      "packageCount": 10,
+      "status": "На складе",
+      "comment": "Из Китая"
+    },
+    {
+      "clientCode": "CL025",
+      "idNumber": "CG202507025",
+      "category": "Электроника",
+      "packageCount": 8,
+      "status": "Доставлен",
+      "comment": "Ожидается завтра"
+    },
+    {
+      "clientCode": "CL026",
+      "idNumber": "CG202507026",
+      "category": "Косметика",
+      "packageCount": 10,
+      "status": "Задержан",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL027",
+      "idNumber": "CG202507027",
+      "category": "Автозапчасти",
+      "packageCount": 4,
+      "status": "Отправлен",
+      "comment": "Ожидается завтра"
+    },
+    {
+      "clientCode": "CL028",
+      "idNumber": "CG202507028",
+      "category": "Косметика",
+      "packageCount": 8,
+      "status": "На складе",
+      "comment": "Хрупкий груз"
+    },
+    {
+      "clientCode": "CL029",
+      "idNumber": "CG202507029",
+      "category": "Обувь",
+      "packageCount": 3,
+      "status": "В пути",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL030",
+      "idNumber": "CG202507030",
+      "category": "Электроника",
+      "packageCount": 6,
+      "status": "Отправлен",
+      "comment": "Связаться с клиентом"
+    },
+    {
+      "clientCode": "CL031",
+      "idNumber": "CG202507031",
+      "category": "Мебель",
+      "packageCount": 1,
+      "status": "На складе",
+      "comment": "Задержка"
+    },
+    {
+      "clientCode": "CL032",
+      "idNumber": "CG202507032",
+      "category": "Продукты",
+      "packageCount": 4,
+      "status": "В пути",
+      "comment": "Хрупкий груз"
+    },
+    {
+      "clientCode": "CL033",
+      "idNumber": "CG202507033",
+      "category": "Обувь",
+      "packageCount": 6,
+      "status": "На складе",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL034",
+      "idNumber": "CG202507034",
+      "category": "Мебель",
+      "packageCount": 3,
+      "status": "Отправлен",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL035",
+      "idNumber": "CG202507035",
+      "category": "Мебель",
+      "packageCount": 10,
+      "status": "Доставлен",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL036",
+      "idNumber": "CG202507036",
+      "category": "Инструменты",
+      "packageCount": 2,
+      "status": "Отправлен",
+      "comment": "Хрупкий груз"
+    },
+    {
+      "clientCode": "CL037",
+      "idNumber": "CG202507037",
+      "category": "Продукты",
+      "packageCount": 10,
+      "status": "В пути",
+      "comment": "Без комментариев"
+    },
+    {
+      "clientCode": "CL038",
+      "idNumber": "CG202507038",
+      "category": "Аксессуары",
+      "packageCount": 3,
+      "status": "На таможне",
+      "comment": ""
+    },
+    {
+      "clientCode": "CL039",
+      "idNumber": "CG202507039",
+      "category": "Обувь",
+      "packageCount": 9,
+      "status": "Доставлен",
+      "comment": "Крупногабарит"
+    },
+    {
+      "clientCode": "CL040",
+      "idNumber": "CG202507040",
+      "category": "Игрушки",
+      "packageCount": 1,
+      "status": "На таможне",
+      "comment": "Без комментариев"
+    }
+  ]
+  
